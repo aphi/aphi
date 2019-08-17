@@ -1,0 +1,22 @@
+html {
+	height:100%;
+}
+
+body {
+	height:100%;
+  margin:0;
+  font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+}
+
+.grayback {
+  background-color: #F8F8F8;
+}
+
+
+.darkergrayback {
+  background-color: #F0F0F0;
+}
+
+p {
+	font-size:120%;
+}
